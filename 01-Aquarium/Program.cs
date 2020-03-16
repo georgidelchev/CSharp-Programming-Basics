@@ -20,11 +20,8 @@ namespace Aquarium
 
             double result = 100 / 8;
 
-
             //print
             Console.WriteLine($"{remaining:F3}");
-
-
         }
     }
 }

@@ -2,7 +2,7 @@
 
 Hello!
 
-My exam tasks!
+Here you can find some tasks from Software-University solved by me :) !
 
 Enjoy!
 

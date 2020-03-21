@@ -30,7 +30,7 @@ namespace ToyShop
                 totalSum = totalSum - discountPrice;
             }
 
-            double moneyLeftAfterRent = totalSum - (totalSum * 0.10);
+            double moneyLeftAfterRent = totalSum - (totalSum * 0.10); // 10% from totalSum
 
             if (moneyLeftAfterRent > tripPrice)
             {

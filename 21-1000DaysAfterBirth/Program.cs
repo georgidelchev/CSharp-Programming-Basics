@@ -10,7 +10,7 @@ namespace _1000DaysAfterBirth
             string birth = Console.ReadLine();
             string format = "dd-MM-yyyy";
             var daysAfterBirth = DateTime.ParseExact(birth, format, CultureInfo.InvariantCulture);
-            daysAfterBirth = daysAfterBirth.AddDays(999);
+            daysAfterBirth = daysAfterBirth.AddDays(1000);
             Console.WriteLine(daysAfterBirth.ToString(format));
         }
     }

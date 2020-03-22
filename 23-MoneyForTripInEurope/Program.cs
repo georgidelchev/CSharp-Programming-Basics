@@ -17,7 +17,7 @@ namespace MoneyForTrip
             double commissionCount = allToEuro * commission / 100;
             double totalMoney = allToEuro - commissionCount;
 
-            Console.WriteLine(totalMoney);
+            Console.WriteLine($"{totalMoney:f2}");
         }
     }
 }

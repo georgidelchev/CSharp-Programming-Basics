@@ -25,9 +25,6 @@ namespace FuelsPtTwo
                 {
                     discount = fuelQty * 0.18;
                 }
-                else
-                {
-                }
             }
             else if (fuelType == "Diesel")
             {
@@ -37,9 +34,6 @@ namespace FuelsPtTwo
                 {
                     discount = fuelQty * 0.12;
                 }
-                else
-                {
-                }
             }
             else if (fuelType == "Gas")
             {
@@ -48,9 +42,6 @@ namespace FuelsPtTwo
                 if (discountCard == "Yes")
                 {
                     discount = fuelQty * 0.08;
-                }
-                else
-                {
                 }
             }
 

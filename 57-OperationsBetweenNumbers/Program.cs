@@ -11,10 +11,12 @@ namespace OperationsBetweenNumbers
             char numbersOperator = char.Parse(Console.ReadLine());
 
             double result = 0;
+            
             if (secondNumber == 0)
             {
                 Console.WriteLine($"Cannot divide {firstNumber} by zero");
             }
+           
             else if (numbersOperator == '+' || numbersOperator == '-' || numbersOperator == '*')
             {
                 if (numbersOperator == '+')
@@ -41,6 +43,7 @@ namespace OperationsBetweenNumbers
                         Console.WriteLine($"{firstNumber} {numbersOperator} {secondNumber} = {result} - odd");
                     }
                 }
+                
                 else if (numbersOperator == '*')
                 {
                     result = firstNumber * secondNumber;
@@ -54,6 +57,7 @@ namespace OperationsBetweenNumbers
                     }
                 }
             }
+           
             else if (numbersOperator == '/')
             {
                 result = firstNumber * 1.00 / secondNumber * 1.00;

@@ -7,9 +7,7 @@ namespace MultiplyBy2
         static void Main(string[] args)
         {
             double numbers = double.Parse(Console.ReadLine());
-
             
-
             while (numbers >= 0)
             { 
                 Console.WriteLine($"Result: {(numbers*2):f2}");

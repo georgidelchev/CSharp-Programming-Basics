@@ -30,19 +30,19 @@ namespace DartsTournament
                 }
                 moves++;
                 sector = Console.ReadLine();
-                
+
                 if (sector == "bullseye")
                 {
                     moves++;
                     Console.WriteLine($"Congratulations! You won the game with a bullseye in {moves} moves!");
-                    
+
                     break;
                 }
 
                 if (currentPoints == 0)
                 {
                     Console.WriteLine($"Congratulations! You won the game in {moves} moves!");
-                    break;                    
+                    break;
                 }
 
                 hittedPoints = int.Parse(Console.ReadLine());

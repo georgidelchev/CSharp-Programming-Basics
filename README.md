@@ -1,10 +1,8 @@
 # SoftUni-Exam-Tasks!
 
-Hello!
+Hello! Here you can find some tasks from Software-University solved by me :) !
 
-Here you can find some tasks from Software-University solved by me :) !
 
-Enjoy!
 
 Every solution is tested in OJS(Open Judge System) with result 100/100 !
 

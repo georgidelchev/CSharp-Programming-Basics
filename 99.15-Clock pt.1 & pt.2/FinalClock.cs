@@ -15,7 +15,7 @@ namespace ClockPt4
                     {
                         for (int milliseconds = 0; milliseconds <= 1000; milliseconds++)
                         {
-                            Console.WriteLine($"{hours} : {minutes} : {seconds} : {milliseconds}");
+                            Console.WriteLine($"{hours} : {minutes} : {seconds}");
                             Thread.Sleep(950);
                             Console.Clear();
                         }

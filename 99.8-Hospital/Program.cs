@@ -31,8 +31,6 @@ namespace Hospital
                     untreated += patients - doctors;
                     treated += doctors;
                 }
-
-
             }
             Console.WriteLine($"Treated patients: {treated}.");
             Console.WriteLine($"Untreated patients: {untreated}.");

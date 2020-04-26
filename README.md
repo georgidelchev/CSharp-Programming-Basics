@@ -1,16 +1,20 @@
-# CSharp Programming Basics Tasks
+#C Sharp Programming Basics Course
 
-My solutions for course Programming Basics with CSharp.
+###Author
 
-Hello! Here you can find some tasks from Software-University solved by me , for the conditions check their site! 
 
-Every solution is tested in OJS(Open Judge System) with result 100/100 !
+###Navigation
 
-## Authors
-
-* **Georgi Delchev** - *Initial work* - [georgidelchev](https://github.com/georgidelchev)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+###### 1. [First Steps In Coding]()
+###### 2. [Simple Operations and Calculations - Lab]()
+###### 3. [Simple Operations and Calculations - Exercise]()
+###### 4. [Conditional Statements - Lab]()
+###### 5. [Conditional Statements - Exercise]()
+###### 6. [Conditional Statements Advanced - Lab]()
+###### 7. [Conditional Statements Advanced - Exercise]()
+###### 8. [Loops - Lab]()
+###### 9. [Loops - Exercise]()
+###### 10. [Loops - Part 2 - Lab]()
+###### 11. [Loops - Part 2 - Exercise]()
+###### 12. [Nested Loops - Lab]()
+###### 13. [Nested Loops - Exercise]()

@@ -1,9 +1,9 @@
-#C Sharp Programming Basics Course
+# C Sharp Programming Basics Course
 
-###Author
+### Author
 
 
-###Navigation
+### Navigation
 
 ###### 1. [First Steps In Coding]()
 ###### 2. [Simple Operations and Calculations - Lab]()

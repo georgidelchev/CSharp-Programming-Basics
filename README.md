@@ -9,7 +9,7 @@
 ------------
 ### Navigation
 
-###### 1. [First Steps In Coding]()
+###### 1. [First Steps In Coding](https://github.com/georgidelchev/CSharp-Programming-Basics-Tasks/tree/master/01%20-%20%5BFirst%20Steps%20In%20Coding%5D)
 ###### 2. [Simple Operations and Calculations - Lab]()
 ###### 3. [Simple Operations and Calculations - Exercise]()
 ###### 4. [Conditional Statements - Lab]()

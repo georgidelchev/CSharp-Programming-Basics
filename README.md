@@ -28,6 +28,6 @@
 ###### 1. [Programming Basics - Exams]()
 ###### 2. [Other Solutions]()
 ------------
-# Certificates:
-######1. [CSharp Programming Basics 2018]()
-######2. [CSharp Programming Basics 2020]()
+### Certificates:
+###### 1. [CSharp Programming Basics 2018]()
+###### 2. [CSharp Programming Basics 2020]()

@@ -14,7 +14,6 @@ namespace Grades
             double excellentPercent = 0;
 
             double gradesSum = 0;
-            double averageSuccess = 0;
 
             for (int i = 0; i < studentsCount; i++)
             {

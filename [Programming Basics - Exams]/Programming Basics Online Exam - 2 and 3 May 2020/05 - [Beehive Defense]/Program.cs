@@ -10,7 +10,6 @@ namespace BeehiveDefense
             int bearHealth = int.Parse(Console.ReadLine());
             int bearAttack = int.Parse(Console.ReadLine());
 
-            int beesHealth = 1;
             int beesAttack = 5;
             while (bearHealth > 0)
             {

@@ -29,7 +29,7 @@
 ###### 2. [Other Solutions]()
 ------------
 ### Certificates:
-###### 1. [CSharp Programming Basics 2018]()
+###### 1. [CSharp Programming Basics 2018](https://softuni.bg/certificates/details/60522/7f0d88f0)
 ###### 2. [CSharp Programming Basics 2020]()
 ------------
 

@@ -12,8 +12,8 @@
 
 ###### 1. [First Steps In Coding](https://github.com/georgidelchev/CSharp-Programming-Basics-Tasks/tree/master/01%20-%20%5BFirst%20Steps%20In%20Coding%5D)
 ###### 2. [Simple Operations and Calculations - Lab](https://github.com/georgidelchev/CSharp-Programming-Basics-Tasks/tree/master/02%20-%20%5BSimple%20Operations%20and%20Calculations%20-%20Lab%5D)
-###### 3. [Simple Operations and Calculations - Exercise]()
-###### 4. [Simple Operations and Calculations - Exercise]()
+###### 3. [Simple Operations and Calculations - Exercise](https://github.com/georgidelchev/CSharp-Programming-Basics-Tasks/tree/master/03%20-%20%5BSimple%20Operations%20and%20Calculations%20-%20Exercise%5D)
+###### 4. [Simple Operations and Calculations - More Exercises](https://github.com/georgidelchev/CSharp-Programming-Basics-Tasks/tree/master/04%20-%20%5BSimple%20Operations%20and%20Calculations%20-%20More%20Exercises%5D)
 ###### 5. [Conditional Statements - Lab]()
 ###### 6. [Conditional Statements - Exercise]()
 ###### 7. [Simple Operations and Calculations - Exercise]()

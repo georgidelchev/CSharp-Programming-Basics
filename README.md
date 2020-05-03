@@ -34,7 +34,7 @@
 ###### 1. [Programming Basics - Exams](https://github.com/georgidelchev/CSharp-Programming-Basics-Tasks/tree/master/%5BProgramming%20Basics%20-%20Exams%5D)
 ###### 2. [Other Solutions](https://github.com/georgidelchev/CSharp-Programming-Basics-Tasks/tree/master/%5BOther%20Solutions%5D)
 ------------
-### Certificates:
+### CSharp - Programming Basics Certificates:
 ###### 1. [CSharp Programming Basics 2018](https://softuni.bg/certificates/details/60522/7f0d88f0)
 ###### 2. TBA [CSharp Programming Basics 2020]()
 ------------

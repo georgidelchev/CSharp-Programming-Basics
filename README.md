@@ -7,6 +7,7 @@
 
 ###### [GitHub](https://github.com/georgidelchev)
 ###### [Facebook](https://www.facebook.com/georgi.d99/)
+###### [LinkedIn](https://www.linkedin.com/in/delchevgeorgi/)
 ------------
 ### Navigation
 

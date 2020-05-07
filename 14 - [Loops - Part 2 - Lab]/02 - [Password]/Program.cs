@@ -14,7 +14,7 @@ namespace Password
             {
                 passwordInput = Console.ReadLine();
             }
-            Console.WriteLine($"Welcome {user}");
+            Console.WriteLine($"Welcome {user}!");
         }
     }
 }

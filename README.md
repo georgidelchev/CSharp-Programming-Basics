@@ -37,7 +37,7 @@
 ------------
 ### CSharp - Programming Basics Certificates:
 ###### 1. [CSharp Programming Basics 2018](https://softuni.bg/certificates/details/60522/7f0d88f0)
-###### 2. TBA [CSharp Programming Basics 2020]()
+###### 2. TBA [CSharp Programming Basics 2020](https://softuni.bg/certificates/details/81516/44cacb84)
 ------------
 
 

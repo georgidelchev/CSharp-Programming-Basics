@@ -32,6 +32,7 @@
 ###### 19. [Nested Loops - More Exercises](https://github.com/georgidelchev/CSharp-Programming-Basics-Tasks/tree/master/19%20-%20%5BNested%20Loops%20-%20More%20Exercises%5D)
 
 ------------
+### Exams and Other problems:
 ###### 1. [Programming Basics - Exams](https://github.com/georgidelchev/CSharp-Programming-Basics-Tasks/tree/master/%5BProgramming%20Basics%20-%20Exams%5D)
 ###### 2. [Other Solutions](https://github.com/georgidelchev/CSharp-Programming-Basics-Tasks/tree/master/%5BOther%20Solutions%5D)
 ------------

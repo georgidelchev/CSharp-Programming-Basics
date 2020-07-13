@@ -1,4 +1,4 @@
-# CSharp Programming-Basics [Course](https://softuni.bg/trainings/2808/programming-basics-with-c-sharp-march-2020) 
+# CSharp PB (Programming Basics) [Course](https://softuni.bg/trainings/2808/programming-basics-with-c-sharp-march-2020) 
 ------------
 ###### *Here you can find my solutions of these course tasks.*
 ###### *Every solution is tested at OJS (Open Judge System) with result 100/100.*
